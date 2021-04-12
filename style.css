@@ -1,0 +1,46 @@
+.head
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.headDiv
+{
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px gray;
+    float: none;
+}
+.sideHead
+{
+    font-size: 18px;
+}
+
+.pTag
+{
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+}
+
+.footer
+{
+    position: fixed;
+    color: whitesmoke;
+    text-align: center;
+    width: 100%;
+    background-color: grey;
+    bottom: 0px;
+    line-height: 2;
+
+}
+
+canvas
+{
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 200px;
+}
